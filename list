@@ -1,0 +1,2 @@
+preprocessing=docker.synapse.org/syn7253932/dm-python-example@sha256:f54e74bbe1a36a64a0c406daaf790fa8c1af3f6ae382abec4b305a5966f91ae4
+training=docker.synapse.org/syn7253932/dm-python-example@sha256:f54e74bbe1a36a64a0c406daaf790fa8c1af3f6ae382abec4b305a5966f91ae4
